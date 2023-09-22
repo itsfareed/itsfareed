@@ -3,9 +3,9 @@
 <!--
 **itsfareed/itsfareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-#Hi, I'm itsFareed. I guess this is a new space for me, since its mostly empty and bland and I have to fill it up. 
+Hi, I'm itsFareed. I guess this is a new space for me, since its mostly empty and bland and I have to fill it up. 
 
-#This is all very new to me, and I want to use this place to update you and me on my progress with the new language. 
+This is all very new to me, and I want to use this place to update you and me on my progress with the new language. 
 
 
 - 🔭 I’m working on getting my Master's in International Affairs at Columbia University. 
